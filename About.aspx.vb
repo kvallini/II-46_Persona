@@ -1,6 +1,6 @@
 ﻿Public Class About
     Inherits Page
-    Public persona As New Persona()
+    Public persona As New DataBaseHelper()
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As EventArgs) Handles Me.Load
 

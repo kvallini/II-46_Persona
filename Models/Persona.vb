@@ -1,4 +1,4 @@
-﻿Public Class Persona
+﻿Public Class DataBaseHelper
     Private _nombre As String
     Private _apellido As String
     Private _edad As Integer
